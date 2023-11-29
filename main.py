@@ -1,7 +1,6 @@
 # import unittest
 # pip install pytest
 
-
 def something():
     return 4
 
