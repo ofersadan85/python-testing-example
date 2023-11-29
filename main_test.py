@@ -36,5 +36,5 @@ def test_everything():
     number = square(number)
     assert number == 49
 
-def test_no_error():
-    assert 1 == 1
+def test_error():
+    assert 0 == 1
